@@ -36,6 +36,7 @@ I enjoy transforming raw data into meaningful insights using Excel, SQL, Power B
 
 ## 📚 Currently Learning
 
+- Data Science
 - Advanced SQL
 - Python for Data Analysis
 - Data Visualization and Business Intelligence
