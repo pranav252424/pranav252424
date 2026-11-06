@@ -21,7 +21,7 @@ I enjoy transforming raw data into meaningful insights using Excel, SQL, Power B
 ### 1. Adventure Works Sales Analysis
 
 - Analyzed Adventure Works business data to evaluate overall sales performance.
-- Created an interactive dashboard using Tableau.
+- Created an interactive dashboard using Tableau,Excel, PowerBi,SQL
 - Developed KPIs to monitor Sales, Profit, Orders, and Product Performance.
 - Analyzed sales trends across products, customers, and geographical regions.
 - Used charts and visualizations to generate meaningful business insights.
@@ -37,7 +37,6 @@ I enjoy transforming raw data into meaningful insights using Excel, SQL, Power B
 ## 📚 Currently Learning
 
 - Advanced SQL
-- Power BI Data Modeling
 - Python for Data Analysis
 - Data Visualization and Business Intelligence
 
