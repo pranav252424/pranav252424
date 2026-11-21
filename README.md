@@ -10,7 +10,7 @@ I clean, prepare and validate data, then build interactive dashboards and KPI re
 
 ## 💼 Experience
 
-**Data Analyst Intern, AI-Variant (Bengaluru)** | Jan 2025 – Present
+**Data Analyst Intern, AI-Variant (Bengaluru)** | Jun 2026 – Present
 - Data cleaning, visualization and dashboard creation using Excel, SQL and Power BI
 - Analyzing customer trends to refine marketing strategies
 - Optimizing data queries for better reporting efficiency
