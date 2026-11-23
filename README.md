@@ -2,7 +2,7 @@
 
 ### Data Analyst | Excel | SQL | Power BI | Tableau | Python
 
-🌐 **Portfolio:** https://pranav252424.github.io
+🌐 **Portfolio:** [https://pranav252424.github.io](https://pranav252424.github.io/)
 
 I'm a Computer Science graduate and Data Analyst from Mumbai, India, with 6 months of internship experience. I enjoy turning raw data into meaningful insights and solving real business problems through data analysis and visualization.
 
